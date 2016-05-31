@@ -1,6 +1,6 @@
 {
   "name": "Test",
   "tagline": "",
-  "body": "<div id=\"label\">hello</div>",
+  "body": "<div id=\"label\">page 1</div>\r\n<a href=\"page2.html\">go to next page</a>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
